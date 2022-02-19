@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fraaanz08
-- 👀 I’m interested in learning coding
+- 👀 I’m interested in 
 - 🌱 I’m currently learning REACT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
